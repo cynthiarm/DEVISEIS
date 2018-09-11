@@ -1,28 +1,3 @@
-# Marketing Agency one page template - ARCHIVED
-
-Flat and responsive website template, designed and coded by [Maxim Orlov](https://github.com/orlovmax). 
-
-Based on the [Portfolio one page template](https://github.com/website-templates/portfolio_one-page-template)
-
-Demo: [http://website-templates.github.io/marketing-agency_one-page-template](http://website-templates.github.io/marketing-agency_one-page-template/)
-
-![Mockup demo](screenshots/pic.jpg)
-
-
-## Contents
-* [Folder structure](#folder-and-file-structure)
-* [Requirements](#requirements)
-    - [Editorconfig](#editorconfig)
-* [Site configuration](#site-configuration)
-* [Tasks](#tasks)
-    - [Start](#start)
-    - [Dev](#dev)
-    - [Build](#build)
-    - [Rebuild](#rebuild)
-    - [Server](#server)
-* [Live reload](#live-reload)
-* [License](#license)
-
 ## Folder and file structure
 ```
 ./
